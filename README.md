@@ -43,3 +43,6 @@ That’s sacred!
 ```cmd
 cd C:\qillquantum
 python -m streamlit run qillquantum.py --server.fileWatcherType none
+
+
+#allegedly
