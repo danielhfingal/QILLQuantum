@@ -1,0 +1,8 @@
+qillquantum/
+├── qillquantum.py          ← the only code that matters
+├── run.bat                 ← double-click and ascend (Windows)
+├── qillquantum_vault/      ← your sovereign knowledge lives here
+│   ├── seen.txt            ← deduplication shield
+│   ├── 000001.json
+│   └── 004847.json
+└── README.md               ← you're reading it
