@@ -8,13 +8,14 @@ QILLQuantum vΩ (yes, that’s the real UI)
 A single Python file, 
 forever-growing, 100% local knowledge vault that quietly hoards the best free programming articles from the internet
 
-Features
-100% local — runs on your machine, forever.
-0% cloud — no accounts, no telemetry, no dark mode toggle.
-0% BS — one file, one folder, one truth.
-68% dry humor — scientifically calibrated (don’t ask)
-Works on Raspberry Pi, old laptops, or your overkill desktop.
-Costs less than a coffee per decade to run.
+
+FEATURES
+: 100% local  ♥  runs on your machine forever 
+♥  0% cloud  ♥  no accounts ♥ no telemetry ♥ no dark mode toggle 
+♥  0% BS  ♥  one file  ♥  one folder  ♥  one truth
+♥  68% dry humor  ♥  scientifically calibrated (don’t ask) 
+♥  Works on Raspberry Pi  ♥  old laptops  ♥  or your overkill desktop
+♥  Costs less than a coffee per decade to run  ♥
 
 QILLQuantum
 A single Python file that quietly hoards the best free programming knowledge forever.
